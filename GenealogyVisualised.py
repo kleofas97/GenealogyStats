@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-file = pd.read_csv("jany_csv.csv", sep = ';', engine='python')
+file = pd.read_csv("jany_birth_csv.csv", sep = ';', engine='python')
 print(file.head())
 
 # Histogram of years
