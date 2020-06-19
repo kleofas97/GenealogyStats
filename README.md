@@ -1,5 +1,5 @@
 # GenealogyStats
-Genealogy data from Jany family throughout centuries visualieed
+Genealogy data from Jany family throughout centuries visualiser
 
 Jany family is one of the oldest family in Naklo, small village in Silesia. 
 Its history starts from XVII century, with first recorded birth. Research which has been made succesfully connected almost 
